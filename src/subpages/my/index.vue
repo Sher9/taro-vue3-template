@@ -26,11 +26,11 @@
           <div class="content-image-item-text">调阅清单</div>
         </div>
         <div class="content-image-item">
-          <div class="iconfont icon-yuebaoribaozhoubao my-icon"></div>
+          <div class="iconfont icon-yuebaoribaozhoubao my-icon green"></div>
           <div class="content-image-item-text">制度清单</div>
         </div>
         <div class="content-image-item">
-          <div class="iconfont icon-xietongzhengce my-icon"></div>
+          <div class="iconfont icon-liebiaoqingdan my-icon orange"></div>
           <div class="content-image-item-text">问题检查清单</div>
         </div>
       </div>

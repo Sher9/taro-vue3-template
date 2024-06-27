@@ -1,21 +1,25 @@
 .home {
     width: 100vw;
-    height: calc(100vh - constant(safe-area-inset-bottom) - 60px);
-    height: calc(100vh - env(safe-area-inset-bottom) - 60px);
+    padding-bottom: 90rpx;
     background-color: #eff2f5;
 
-    .swiper-pagination {
-        position: absolute;
-        bottom: 20px;
-        right: 0;
-        width: 46px;
-        height: 30px;
-        background: rgba(0, 0, 0, 0.33);
-        border-radius: 22px;
-        text-align: center;
-        color: #fff;
-        font-size: 22px;
+    .swiper {
+        margin: 20rpx;
+
+        .swiper-pagination {
+            position: absolute;
+            bottom: 20px;
+            right: 0;
+            width: 46px;
+            height: 30px;
+            background: rgba(0, 0, 0, 0.33);
+            border-radius: 22px;
+            text-align: center;
+            color: #fff;
+            font-size: 22px;
+        }
     }
+
 
 
     .content {
@@ -29,7 +33,7 @@
         -ms-flex-direction: column;
         flex-direction: column;
         z-index: 99;
-        margin: -60rpx 20rpx 80rpx 20rpx;
+        margin: 20rpx;
 
         &-item {
             height: 80px;
@@ -46,7 +50,6 @@
                 >p {
                     font-size: 24px;
                     font-weight: 500;
-                    margin-left: 20px;
                 }
 
                 .integral_icon {
@@ -66,25 +69,56 @@
             display: flex;
             flex-direction: row;
             justify-content: space-around;
-            margin: 30rpx 0;
+            margin: 20rpx 0 30rpx 0;
 
             .content-image-item {
                 display: flex;
                 flex-direction: column;
 
                 .my-icon {
-                    color: #1777FF;
                     font-size: 60px;
                     text-align: center;
                 }
 
                 .content-image-item-text {
-                    font-size: 24px;
+                    font-size: 26px;
                     font-weight: 500;
                     text-align: center;
                     margin-top: 10px;
                 }
             }
+        }
+
+        &-text {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            margin: 20rpx 0 30rpx 0;
+
+            .content-text-view {
+                display: flex;
+                flex-direction: row;
+                width: 43%;
+                padding: 15rpx 20rpx;
+                border-radius: 12rpx;
+                .content-text-item {
+                    display: flex;
+                    align-items: center;
+
+                    .my-icon {
+                        font-size: 60px;
+                        text-align: center;
+                        margin-right: 20rpx;
+                    }
+
+                    .item-text {
+                        font-size: 26px;
+                        font-weight: 500;
+                        text-align: center;
+                    }
+                }
+            }
+
         }
     }
 }
