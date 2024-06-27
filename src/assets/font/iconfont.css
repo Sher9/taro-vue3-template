@@ -1,0 +1,132 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4592945 */
+  src: url('iconfont.woff2?t=1719393069198') format('woff2'),
+       url('iconfont.woff?t=1719393069198') format('woff'),
+       url('iconfont.ttf?t=1719393069198') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  color: #606266;
+  font-size: 40px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qingdan2:before {
+  content: "\e61b";
+}
+
+.icon-qingdan4:before {
+  content: "\e60f";
+}
+
+.icon-qingdan5:before {
+  content: "\e617";
+}
+
+.icon-qingdan6:before {
+  content: "\e645";
+}
+
+.icon-20gl-clipboardList:before {
+  content: "\eab0";
+}
+
+.icon-quanliqingdan:before {
+  content: "\e630";
+}
+
+.icon-shebeiqingdan:before {
+  content: "\e666";
+}
+
+.icon-tubiao_mubiaoqingdan_mubiaoqingdan:before {
+  content: "\e622";
+}
+
+.icon-a-renwuqingdan2:before {
+  content: "\e627";
+}
+
+.icon-a-wentiqingdan2:before {
+  content: "\e628";
+}
+
+.icon-shoujihao:before {
+  content: "\e6b8";
+}
+
+.icon-yanzhengma:before {
+  content: "\e6bf";
+}
+
+.icon-yonghu:before {
+  content: "\e601";
+}
+
+.icon-mima:before {
+  content: "\e620";
+}
+
+.icon-liebiaoqingdan:before {
+  content: "\e62f";
+}
+
+.icon-xinwen:before {
+  content: "\e635";
+}
+
+.icon-yuebaoribaozhoubao:before {
+  content: "\e636";
+}
+
+.icon-xietongzhengce:before {
+  content: "\e7ae";
+}
+
+.icon-shaixuan:before {
+  content: "\e74a";
+}
+
+.icon-fanhui:before {
+  content: "\e700";
+}
+
+.icon-gerenxinxi:before {
+  content: "\e6b3";
+}
+
+.icon-aixin:before {
+  content: "\e621";
+}
+
+.icon-gengduo:before {
+  content: "\e69b";
+}
+
+.icon-xuanxiang:before {
+  content: "\e69f";
+}
+
+.icon-shouye-zhihui:before {
+  content: "\e6cd";
+}
+
+.icon-qingdankushoucang:before {
+  content: "\e62c";
+}
+
+.icon-24gl-clipboardChecklist:before {
+  content: "\eabb";
+}
+
+.icon-24gl-clipboardList:before {
+  content: "\eabc";
+}
+
+.icon-qingdan:before {
+  content: "\e6ef";
+}
+
