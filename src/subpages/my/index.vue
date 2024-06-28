@@ -56,7 +56,8 @@
 import "./index.scss";
 import { RectRight } from "@nutui/icons-vue-taro";
 import Taro from "@tarojs/taro";
+Taro.hideHomeButton();
 const exit = () => {
-  Taro.navigateTo({ url: "/pages/index/index" });
+  Taro.reLaunch({ url: "/pages/index/index" });
 };
 </script>

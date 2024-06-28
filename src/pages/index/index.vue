@@ -70,7 +70,7 @@ const countdown = ref(0);
 const verifyCode = ref("");
 const isShow = ref(false);
 const goToIndex = () => {
-  Taro.navigateTo({ url: "/subpages/home/index" });
+  Taro.reLaunch({ url: "/subpages/home/index" });
 };
 
 const sendCode = () => {

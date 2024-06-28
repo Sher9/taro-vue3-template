@@ -6,6 +6,167 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19708481",
+      "name": "知识库查询",
+      "font_class": "zhishikuchaxun",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "19737396",
+      "name": "运维日志",
+      "font_class": "yunweirizhi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "19789103",
+      "name": "实时曲线",
+      "font_class": "shishiquxian",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "20039916",
+      "name": "系统报警",
+      "font_class": "xitongbaojing",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "20041280",
+      "name": "问题派送",
+      "font_class": "wentipaisong",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "20446239",
+      "name": "公告通知",
+      "font_class": "gonggaotongzhi",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "20448701",
+      "name": "定期工作",
+      "font_class": "dingqigongzuo",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "20448880",
+      "name": "作业票调阅",
+      "font_class": "zuoyepiaotiaoyue",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "21034321",
+      "name": "安全承诺",
+      "font_class": "anquanchengnuo",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "21034438",
+      "name": "报警记录",
+      "font_class": "baojingjilu",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "21034440",
+      "name": "公告通知",
+      "font_class": "gonggaotongzhi1",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "21034442",
+      "name": "待办事项",
+      "font_class": "daibanshixiang",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "21034443",
+      "name": "检查查询",
+      "font_class": "jianchachaxun",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "21034444",
+      "name": "工作实况",
+      "font_class": "gongzuoshikuang1",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "21034445",
+      "name": "定期工作",
+      "font_class": "dingqigongzuo1",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "21034447",
+      "name": "实时图",
+      "font_class": "shishitu",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "21034448",
+      "name": "设备状态",
+      "font_class": "shebeizhuangtai",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "21034452",
+      "name": "值班表",
+      "font_class": "zhibanbiao",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "21034460",
+      "name": "报警记录",
+      "font_class": "baojingjilu1",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "21034542",
+      "name": "安全检查",
+      "font_class": "anquanjiancha",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "21034546",
+      "name": "日常工作",
+      "font_class": "richanggongzuo",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "21928629",
+      "name": "风险监管",
+      "font_class": "fengxianjianguan",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "22023412",
+      "name": "关键信息",
+      "font_class": "guanjianxinxi",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
       "icon_id": "658040",
       "name": "收藏",
       "font_class": "shoucang",

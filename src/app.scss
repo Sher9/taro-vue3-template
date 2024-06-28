@@ -11,11 +11,12 @@
     }
 }
 
-
-
-.nut-tabs .nut-tabs__titles .nut-tabs__titles-item__text {
-    text-align: center;
-    color: #fff;
+.nut-tabs.horizontal .nut-sticky__box>.nut-tabs__titles,
+.nut-tabs.horizontal>.nut-tabs__titles {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    height: var(--nut-tabs-horizontal-titles-height, 70rpx) !important;
 }
 
 .green {

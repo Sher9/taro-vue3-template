@@ -125,11 +125,14 @@
 
 <script setup>
 import { ref } from "vue";
+import Taro from "@tarojs/taro";
 import "./index.scss";
 import { RectRight } from "@nutui/icons-vue-taro";
 import pictureOne from "../../assets/img/1.jpg";
 import pictureTwo from "../../assets/img/2.jpg";
 import pictureThree from "../../assets/img/3.jpg";
+
+Taro.hideHomeButton();
 const val = ref(1);
 const list = ref([pictureOne, pictureTwo, pictureThree]);
 const onChange = (index) => {
