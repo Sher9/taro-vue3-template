@@ -64,19 +64,13 @@ const state = reactive({
       name: "我的",
       active: false,
       targetUrl: "/subpages/my/index",
-    },
+    }
   ],
 });
 
 const { tabList } = toRefs(state);
 
 const TabClick = (tarVal, index) => {
-  //   state.tabList = state.tabList.map((i, idx) => {
-  //     return Object.assign(i, {
-  //       active: idx == tarIndex ? true : false,
-  //     });
-  //   });
-  // useUserStore().setTabKey(index);
   Taro.reLaunch({
     url: `${tarVal.targetUrl}`,
     success: (res) => {},

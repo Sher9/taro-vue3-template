@@ -6,7 +6,7 @@ export default defineAppConfig({
     {
       root: 'subpages',
       pages: [
-        'home/index', 'my/index', 'list/index',
+        'home/index', 'my/index', 'list/index', 'test/index',
       ]
     }
   ],

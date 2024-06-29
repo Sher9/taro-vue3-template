@@ -15,7 +15,6 @@ declare module 'vue' {
     NutSearchbar: typeof import('@nutui/nutui-taro')['Searchbar']
     NutSwiper: typeof import('@nutui/nutui-taro')['Swiper']
     NutSwiperItem: typeof import('@nutui/nutui-taro')['SwiperItem']
-    NutTabPane: typeof import('@nutui/nutui-taro')['TabPane']
     NutTabs: typeof import('@nutui/nutui-taro')['Tabs']
     NutTag: typeof import('@nutui/nutui-taro')['Tag']
     TabBar: typeof import('./src/components/tabBar/index.vue')['default']

@@ -64,7 +64,7 @@
             >
               {{ item.typeName }}
             </nut-tag>
-            <view>{{ item.desc }}</view>
+            <view class="text">{{ item.desc }}</view>
           </view>
         </view>
         <view class="button-view">
